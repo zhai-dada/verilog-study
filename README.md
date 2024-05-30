@@ -1,0 +1,2 @@
+# verilog-study
+study verilog
